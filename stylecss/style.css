@@ -115,7 +115,7 @@ text-align: center;
 
 .main-1{
 
-  text-align: center;
+  /* text-align: center; */
   margin-left: 113px;
 }
 
@@ -365,3 +365,186 @@ border-radius: 16px;
 #my-inspirataion .youtube-link video{
   margin: 32px;
 }
+
+/* my current target  */
+
+#my-current-target{
+  
+
+
+}
+
+#my-current-target .my-current-target-container {
+
+width: 1140px;
+height: 463px;
+
+}
+
+#my-current-target .target{
+  
+text-align: center;
+
+}
+
+#my-current-target .target h4{
+  
+  color: rgb(13, 19, 33);
+
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+
+  
+  }
+
+
+  #my-current-target .target p{
+  
+    color: rgb(13, 19, 33);
+   
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 20px 0 48px 0;
+    
+    }
+
+
+   
+      #my-current-target .skill {
+        display: flex;
+        justify-content: center;
+        column-gap: 30px;
+        padding: 30px;
+    }
+
+    #my-current-target .skill .htmll{
+      border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+padding: 30px;
+
+    }
+
+    #my-current-target .skill .css{
+      border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+padding: 30px;
+
+    }
+
+    #my-current-target .skill .js{
+      border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+padding: 30px;
+
+    }
+    
+
+    #my-current-target .skill img{
+
+
+    }
+
+    #my-current-target h4{
+      color: rgb(13, 19, 33);
+
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin: 20px 0;
+
+    }
+    #my-current-target  p{
+      color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+margin: 20px 0;
+
+    }
+
+    #my-current-target a{
+      color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+
+    }
+
+
+
+    #my-current-target .next-skill {
+
+
+    }
+
+
+
+    
+    #my-current-target .next-skill .react {
+      display: flex;
+      
+      justify-content: space-evenly;
+      align-items: center;
+      box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+  }
+    
+    
+    #my-current-target .next-skill .node {
+      display: flex;
+      
+      justify-content: space-evenly;
+      align-items: center;
+      box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+
+margin: 30px 0;
+column-gap: 92px;
+    }
+
+    
+    #my-current-target .next-skill .mongo {
+      display: flex;
+      
+      justify-content: space-evenly;
+      align-items: center;
+
+      box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+column-gap: 120px;
+
+
+    }
+
+
+
+
+
+
