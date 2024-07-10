@@ -370,6 +370,7 @@ border-radius: 16px;
 
 #my-current-target{
   
+  
 
 
 }
@@ -377,7 +378,7 @@ border-radius: 16px;
 #my-current-target .my-current-target-container {
 
 width: 1140px;
-height: 463px;
+
 
 }
 
@@ -488,10 +489,20 @@ text-decoration-line: underline;
 
     }
 
+    #my-current-target .next-target h4{
+      text-align: center;
+
+    }
+
+    #my-current-target .next-target p{
+      text-align: center;
+
+    }
+
 
 
     #my-current-target .next-skill {
-
+    
 
     }
 
@@ -542,6 +553,117 @@ column-gap: 120px;
 
 
     }
+
+
+
+
+    /* footer start  */
+
+#support-section{
+
+  background-image: url(../assets/handshake.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 64px 48px;
+  margin: 30px;
+}
+
+#support-section .container-section{
+  border-radius: 16px;
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+
+width: 1140px;
+
+  
+}
+
+
+#support-section h4{
+  color: rgb(255, 255, 255);
+
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin: 20px 0;
+
+}
+
+
+#support-section p{
+  color: rgb(255, 255, 255);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 50px;
+
+}
+
+
+#support-section .submit-form{
+ display: flex;
+ margin-left: 200px;
+ column-gap: 20px;
+}
+
+
+#support-section form {
+  box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+
+
+background: rgb(255, 255, 255);
+
+border-radius: 8px;
+
+}
+#support-section form input{
+  width: 600px;
+height: 25px;
+padding: 15px;
+border-radius: 8px;
+}
+
+#support-section .submit-form button{
+  color: rgb(13, 19, 33);
+
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0%;
+  text-align: center;
+  border-radius: 8px;
+
+background: rgb(255, 255, 255);
+padding: 5px
+13px;
+  
+ }
+
+
+
+
+ #social-media{
+ 
+
+ }
+
+ 
+ #social-media .container-social {
+  width: 1140px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+
+  margin: 30px 0;
+}
 
 
 
